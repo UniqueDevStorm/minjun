@@ -9,7 +9,6 @@ import CSS from './assets/icons/CSS.svg';
 import Photoshop from './assets/icons/Photoshop.svg';
 
 import Utility from "./components/utility";
-import Do from "./components/do";
 import Experience from "./components/experience";
 
 const Home: React.FC = () => {
@@ -110,23 +109,6 @@ const Home: React.FC = () => {
       <div id="Service" />
       <div className="py-28 sm:px-40 px-8">
         <h1 className="font-black sm:text-[3.75rem] text-5xl">What I do?</h1>
-        <div className="mt-12 sm:flex grid sm:gap-20 sm:gap-y-0 gap-y-10">
-          {/*<Do*/}
-          {/*  svg={Server}*/}
-          {/*  title="Server Development"*/}
-          {/*  description="It's an area that I'm confident in and use a lot. The most commonly used database is MongoDB. Also, I mainly produced Discord Bot and API!"*/}
-          {/*/>*/}
-          {/*<Do*/}
-          {/*  svg={Web}*/}
-          {/*  title="Web Development"*/}
-          {/*  description="While developing a portfolio, I'm developing a website for outsourcing! Also, I'm studying to make a service!"*/}
-          {/*/>*/}
-          {/*<Do*/}
-          {/*  svg={Illustrator}*/}
-          {/*  title="Illustrator"*/}
-          {/*  description="I don't get outsourced, but I sometimes use Procreate as a hobby!"*/}
-          {/*/>*/}
-        </div>
       </div>
       <div className="pb-28 sm:px-40 px-8">
         <h1 className="font-black text-[3.75rem]">Skills</h1>
