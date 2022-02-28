@@ -25,9 +25,6 @@ const Home: React.FC = () => {
           <AnchorLink href="#Home">
             <h1 className="font-light sm:text-2xl">Home</h1>
           </AnchorLink>
-          <AnchorLink href="#Service">
-            <h1 className="font-light sm:text-2xl">Service</h1>
-          </AnchorLink>
           <AnchorLink href="#Skills">
             <h1 className="font-light sm:text-2xl">Skills</h1>
           </AnchorLink>
@@ -105,10 +102,6 @@ const Home: React.FC = () => {
         >
           miniqueen3710@gmail.com
         </a>
-      </div>
-      <div id="Service" />
-      <div className="py-28 sm:px-40 px-8">
-        <h1 className="font-black sm:text-[3.75rem] text-5xl">What I do?</h1>
       </div>
       <div className="pb-28 sm:px-40 px-8">
         <h1 className="font-black text-[3.75rem]">Skills</h1>
