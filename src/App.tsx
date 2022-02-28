@@ -50,9 +50,9 @@ const Home: React.FC = () => {
           </h2>
         </div>
         <img
-          src='https://media.discordapp.net/attachments/851436152052645959/947554719482654832/7517D346-5540-4D3E-82E5-BF8FF6A51A16.jpg?width=545&height=897'
+          src='https://media.discordapp.net/attachments/851436152052645959/947840239416791071/unknown.png'
           alt=""
-          className="sm:w-[441.45px] sm:h-[726.57px] w-[100px] h-[100px] rounded mx-auto sm:block hidden"
+          className="sm:w-[300px] sm:h-[300px] w-[100px] h-[100px] rounded mx-auto sm:block hidden"
           draggable={false}
         />
       </div>
